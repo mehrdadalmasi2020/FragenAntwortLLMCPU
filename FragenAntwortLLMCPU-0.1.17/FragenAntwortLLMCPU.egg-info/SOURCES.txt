@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+FragenAntwortLLMCPU/__init__.py
+FragenAntwortLLMCPU/document_processor.py
+FragenAntwortLLMCPU.egg-info/PKG-INFO
+FragenAntwortLLMCPU.egg-info/SOURCES.txt
+FragenAntwortLLMCPU.egg-info/dependency_links.txt
+FragenAntwortLLMCPU.egg-info/entry_points.txt
+FragenAntwortLLMCPU.egg-info/requires.txt
+FragenAntwortLLMCPU.egg-info/top_level.txt
+tests/__init__.py
+tests/test_document_processor.py
