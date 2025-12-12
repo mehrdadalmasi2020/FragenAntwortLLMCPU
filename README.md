@@ -130,8 +130,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ### Authors
 
-- Mehrdad Almasi, Lars Wieneke and Demival VASQUES FILHO
-
-### Contact
-
-For questions or feedback, please contact **Mehrdad.al.2023@gmail.com, lars.wieneke@gmail.com, demival.vasques@uni.lu**.
+- Mehrdad Almasi, Lars Wieneke and Demival Vasques
