@@ -1,0 +1,7 @@
+PyMuPDF
+tokenizers
+semantic-text-splitter
+langchain
+langchain-community
+ctransformers
+torch
