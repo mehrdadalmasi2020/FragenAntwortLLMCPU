@@ -1,2 +1,0 @@
-[console_scripts]
-process_document = FragenAntwortLLMCPU.document_processor:main
